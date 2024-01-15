@@ -1,0 +1,2 @@
+﻿  screen_logo.c
+C:\Users\GGPC\Desktop\CS205-Jam\CS205-Class-Jam\game\src\screen_logo.c(26,10): fatal  error C1083: Cannot open include file: 'raylib.h': No such file or directory
